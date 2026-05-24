@@ -52,10 +52,10 @@ Personal and learning projects around **XR, cloud computing and agentic AI** —
 
 | Project | Focus |
 |---------|--------|
-| [cloud-robotics-monitor](https://github.com/Gescheld/cloud-robotics-monitor) | MQTT telemetry, Postgres, Grafana — cloud-ready robot monitoring (WIP) |
+| [cloud-robotics-monitor](https://github.com/Gescheld/cloud-robotics-monitor) | End-to-end telemetry stack for industrial robots — MQTT, FastAPI, Postgres, Grafana, all in Docker Compose |
 | [Computer-Vision-Active-Contour](https://github.com/Gescheld/Computer-Vision-Active-Contour) | Active contour segmentation (snake algorithm) |
 
-*Building out ingest + dashboards next; see repo roadmap.*
+*Next on the roadmap: rolling anomaly detection and an AWS Free Tier deployment guide.*
 
 ### Side projects & curiosities
 
@@ -74,7 +74,8 @@ Personal and learning projects around **XR, cloud computing and agentic AI** —
 ### Currently exploring
 
 - Low-latency **teleoperation** of humanoid and industrial robots (XR + ROS2)
-- **Time-series ML** for industrial sensor data (personal learning track)
+- **Time-series ML** and anomaly detection on industrial sensor data
+- **Adaptive learning interfaces** — combining retrieval-augmented LLMs with comprehension checks, where cognitive science meets useful AI tools
 - **Photorealistic 3D capture** (Gaussian splatting) for simulation and visualization
 
 ### A bit beyond the screen
