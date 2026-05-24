@@ -60,6 +60,7 @@ Personal and learning projects around **XR, robotics, computer vision, and indus
 
 - 🗣️ **Personal language-learning apps** — I build small tools for myself to learn languages the way *I* learn best (spaced repetition, contextual examples, my own vocabulary lists). A natural meeting point of my cognitive-science background and a love for languages.
 - 🏠 **AI for everyday life** — small private experiments with LLMs (and a bit of vision) to organize, plan, and make daily decisions easier. A grounded reality check on where AI actually helps and where it just adds steps.
+- 🚗 **Hobby robotics — Freenove 4WD car kit** — hands-on tinkering with sensors, motor control, and small autonomy experiments. A welcome ground-up counterpart to a day job that mostly happens through XR.
 - 🛠️ **Catching up with new tech** — XR hardware, AI model releases, robotics demos, browser-based 3D. I read, I tinker, and sometimes one of those experiments grows into a real side project.
 
 ### Talks & publications
