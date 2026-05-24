@@ -21,7 +21,7 @@ My background bridges **cognitive science and robotics**: I'm curious about how 
 
 - **B.Sc. Cognitive Science** — University of Tübingen
   - Where informatics and robotics meet psychology and neurocognition — the foundation of my interest in how humans understand and work with technical systems
-  - Programming, statistics, empirical methods, VR-based user studies
+  - Programming, statistics, empirical methods, user studies
   - **Thesis:** the influence of color on cognitive processes in VR — an empirical study of visual perception
 
 ### Focus areas
@@ -32,7 +32,7 @@ My background bridges **cognitive science and robotics**: I'm curious about how 
 | **Industrial robotics** | ROS, robot programming, point-cloud processing, simulation |
 | **Humanoid HRI** | Safety-zone visualization, intuitive interfaces, human–robot collaboration |
 | **Computer Vision & ML** | Object detection/segmentation, model-based perception, neural networks in Python |
-| **Cognitive Science** | Perception, interdisciplinary teamwork, learning, VR-based user studies |
+| **Cognitive Science** | Perception, interdisciplinary teamwork, learning, user studies |
 
 ### Tech I work with
 
