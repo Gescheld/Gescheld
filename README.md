@@ -73,10 +73,9 @@ Personal and learning projects around **XR, cloud computing and agentic AI** —
 
 ### Currently exploring
 
-- Low-latency **teleoperation** of humanoid and industrial robots (XR + ROS2)
-- **Time-series ML** and anomaly detection on industrial sensor data
-- **Adaptive learning interfaces** — combining retrieval-augmented LLMs with comprehension checks, where cognitive science meets useful AI tools
-- **Photorealistic 3D capture** (Gaussian splatting) for simulation and visualization
+- **Time-series ML and anomaly detection** on industrial sensor data — rolling baselines on the `cloud-robotics-monitor` stream
+- **ROS2 autonomous robotics stack** — perception, SLAM, Nav2 and sensor fusion in Gazebo simulation, Dockerized with CI
+- **AI agents and multi-agent systems** — planning, tool use and memory, with cloud-deployable demos (Colab / HF Spaces)
 
 ### A bit beyond the screen
 
