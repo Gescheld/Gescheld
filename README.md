@@ -15,9 +15,14 @@ My background bridges **cognitive science and robotics**: I'm curious about how 
 ### Background
 
 - **M.Sc. Robotics and Autonomous Systems** — University of Lübeck (grade 1.4)
-- **B.Sc. Cognitive Science** — University of Tübingen (Informatics · Psychology · Neurocognition)
-- **R&D internship at Festo** — neural networks for object detection & segmentation
-- *Forum Scientiarum* interdisciplinary research college · *Best Presentation Award*, Studierendentagung 2022
+  - Bio-inspired and cognitive robotics, neuroinformatics
+  - Simulation, autonomous control, implementing neural networks, version-controlled project work
+  - **Thesis:** designing and evaluating Mixed Reality concepts for industrial robot programming
+
+- **B.Sc. Cognitive Science** — University of Tübingen
+  - Where informatics and robotics meet psychology and neurocognition — the foundation of my interest in how humans understand and work with technical systems
+  - Programming, statistics, empirical methods, VR-based user studies
+  - **Thesis:** the influence of color on cognitive processes in VR — an empirical study of visual perception
 
 ### Focus areas
 
@@ -27,8 +32,7 @@ My background bridges **cognitive science and robotics**: I'm curious about how 
 | **Industrial robotics** | ROS, robot programming, point-cloud processing, simulation |
 | **Humanoid HRI** | Safety-zone visualization, intuitive interfaces, human–robot collaboration |
 | **Computer Vision & ML** | Object detection/segmentation, model-based perception, neural networks in Python |
-| **Cognitive Science** | Perception, learning, VR-based user studies |
-| **Project work** | Acquisition, technical coordination, mentoring students, conference talks |
+| **Cognitive Science** | Perception, interdisciplinary teamwork, learning, VR-based user studies |
 
 ### Tech I work with
 
@@ -73,9 +77,7 @@ Personal and learning projects around **XR, robotics, computer vision, and indus
 
 ### A bit beyond the screen
 
-Years of competitive handball (German A-Jugend Bundesliga, *Sportler des Jahres* 2013/2014) taught me that consistent teamwork, clear roles, and steady practice beat lone heroics — a mindset I still bring to engineering teams.
-
-I'm fluent in German (C2) and English (C1), and stubbornly working on my French (B1) — sometimes with apps I built myself.
+Years of competitive handball taught me that consistent teamwork, clear roles, and steady practice beat lone heroics — a mindset I still bring to engineering teams.
 
 ---
 
