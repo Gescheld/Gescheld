@@ -52,9 +52,10 @@ Personal and learning projects around **XR, cloud computing and agentic AI** —
 
 | Project | Focus |
 |---------|--------|
+| [cloud-robotics-monitor](https://github.com/Gescheld/cloud-robotics-monitor) | MQTT telemetry, Postgres, Grafana — cloud-ready robot monitoring (WIP) |
 | [Computer-Vision-Active-Contour](https://github.com/Gescheld/Computer-Vision-Active-Contour) | Active contour segmentation (snake algorithm) |
 
-*More in progress — adaptive study companion (RAG + comprehension checks) and cloud/AI learning projects.*
+*Building out ingest + dashboards next; see repo roadmap.*
 
 ### Side projects & curiosities
 
