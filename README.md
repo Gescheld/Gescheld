@@ -2,7 +2,13 @@
 
 **Robotics & XR researcher** — building bridges between humans, industrial robots, and intelligent systems.
 
-I work as a **research scientist at [Fraunhofer IPA](https://www.ipa.fraunhofer.de/)** (Automation and Robotics), where I develop **Mixed Reality applications with Unity and ROS** for industrial robot programming, visualization, and human–robot interaction. I coordinate research and industry projects, mentor student researchers, and present work at conferences and trade fairs.
+I work as a **research scientist at [Fraunhofer IPA](https://www.ipa.fraunhofer.de/)** (Automation and Robotics), developing **Mixed Reality applications with Unity and ROS** for
+
+- **programming industrial robots** through intuitive 3D interfaces,
+- **visualizing safety zones around humanoid robots** so people can work alongside them with confidence, and
+- **shaping human–robot interaction** more broadly — making complex robotic systems understandable, controllable, and safe.
+
+I coordinate research and industry projects, mentor student researchers, and present work at conferences and trade fairs.
 
 My background bridges **cognitive science and robotics**: I'm curious about how people perceive, learn, and interact with complex technical systems — and how good interfaces (XR, AI, or otherwise) make that interaction effortless.
 
@@ -18,7 +24,8 @@ My background bridges **cognitive science and robotics**: I'm curious about how 
 | Area | What I do |
 |------|-----------|
 | **Extended Reality** | Unity 3D, MRTK, HoloLens 2, MR/VR user interfaces, Blender |
-| **Robotics** | ROS, robot programming, point-cloud processing, simulation, human–robot interaction |
+| **Industrial robotics** | ROS, robot programming, point-cloud processing, simulation |
+| **Humanoid HRI** | Safety-zone visualization, intuitive interfaces, human–robot collaboration |
 | **Computer Vision & ML** | Object detection/segmentation, model-based perception, neural networks in Python |
 | **Cognitive Science** | Perception, learning, VR-based user studies |
 | **Project work** | Acquisition, technical coordination, mentoring students, conference talks |
@@ -60,9 +67,9 @@ Personal and learning projects around **XR, robotics, computer vision, and indus
 
 ### Currently exploring
 
-- Low-latency **teleoperation** interfaces (XR + ROS2)
+- Low-latency **teleoperation** of humanoid and industrial robots (XR + ROS2)
 - **Time-series ML** for industrial sensor data (personal learning track)
-- **Photorealistic 3D capture** for simulation and visualization
+- **Photorealistic 3D capture** (Gaussian splatting) for simulation and visualization
 
 ### A bit beyond the screen
 
