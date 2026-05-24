@@ -41,24 +41,24 @@ My background bridges **cognitive science and robotics**: I'm curious about how 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### What you'll find here
 
-Personal and learning projects around **XR, robotics, computer vision, and industrial AI** — complementing my research work (which stays internal). Repositories are documented in English for collaboration and applications.
+Personal and learning projects around **XR, cloud computing and agentic AI** — complementing my research work (which stays internal). Repositories are documented in English for collaboration and applications.
 
 ### Featured repositories
 
 | Project | Focus |
 |---------|--------|
-| [mixed_reality_setup](https://github.com/Gescheld/mixed_reality_setup) | HoloLens / Unity ↔ ROS integration |
-| [Computer-Vision-Active-Contour](https://github.com/Gescheld/Computer-Vision-Active-Contour) | Model-based segmentation (active contours) |
+| [Computer-Vision-Active-Contour](https://github.com/Gescheld/Computer-Vision-Active-Contour) | Active contour segmentation (snake algorithm) |
 
-*More repos in progress — teleoperation playground & industrial time-series ML.*
+*More in progress — adaptive study companion (RAG + comprehension checks) and cloud/AI learning projects.*
 
 ### Side projects & curiosities
 
-- 🗣️ **Personal language-learning apps** — I build small tools for myself to learn languages the way *I* learn best (spaced repetition, contextual examples, my own vocabulary lists). A natural meeting point of my cognitive-science background and a love for languages.
+- 🗣️ **Personal language-learning apps** (e.g. Tamil) — **Flutter** apps with a **Firebase** backend, **Google Sheets** as an editable content source, and **LLM** integration for contextual examples and light comprehension checks. Spaced repetition and vocabulary lists shaped around how I actually learn — where cognitive science meets shipping small full-stack tools.
 - 🏠 **AI for everyday life** — small private experiments with LLMs (and a bit of vision) to organize, plan, and make daily decisions easier. A grounded reality check on where AI actually helps and where it just adds steps.
 - 🚗 **Hobby robotics — Freenove 4WD car kit** — hands-on tinkering with sensors, motor control, and small autonomy experiments. A welcome ground-up counterpart to a day job that mostly happens through XR.
 - 🛠️ **Catching up with new tech** — XR hardware, AI model releases, robotics demos, browser-based 3D. I read, I tinker, and sometimes one of those experiments grows into a real side project.
