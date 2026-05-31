@@ -54,11 +54,13 @@ Personal and learning projects around **XR, cloud computing and agentic AI** —
 |---------|--------|
 | [cloud-robotics-monitor](https://github.com/Gescheld/cloud-robotics-monitor) | End-to-end telemetry stack for industrial robots — MQTT, FastAPI, Postgres, Grafana, all in Docker Compose |
 | [Computer-Vision-Active-Contour](https://github.com/Gescheld/Computer-Vision-Active-Contour) | Active contour segmentation (snake algorithm) |
+| [memory-palace-vocab](https://github.com/Gescheld/memory-palace-vocab) *(in progress)* | Browser-based vocabulary trainer using the Method of Loci — Unity 6, WebGL/WASM, UI Toolkit, SM-2 spaced repetition |
 
-*Next on the roadmap: rolling anomaly detection and an AWS Free Tier deployment guide.*
+*Next on the roadmap: rolling anomaly detection for cloud-robotics-monitor; v0.1 WebGL demo for memory-palace-vocab.*
 
 ### Side projects & curiosities
 
+- 🧠 **[memory-palace-vocab](https://github.com/Gescheld/memory-palace-vocab)** — the project I'm actively building: a browser-based vocabulary trainer that anchors flashcards to objects in a 3D room (Method of Loci + SM-2 spaced repetition). Unity 6, WebGL/WASM, UI Toolkit, Redux-style state, IndexedDB persistence — a personal learning tool and a focused playground for browser-hosted Unity.
 - 🗣️ **Personal language-learning apps** (e.g. Tamil) — **Flutter** apps with a **Firebase** backend, **Google Sheets** as an editable content source, and **LLM** integration for contextual examples and light comprehension checks. Spaced repetition and vocabulary lists shaped around how I actually learn — where cognitive science meets shipping small full-stack tools.
 - 🏠 **AI for everyday life** — small private experiments with LLMs (and a bit of vision) to organize, plan, and make daily decisions easier. A grounded reality check on where AI actually helps and where it just adds steps.
 - 🚗 **Hobby robotics — Freenove 4WD car kit** — hands-on tinkering with sensors, motor control, and small autonomy experiments. A welcome ground-up counterpart to a day job that mostly happens through XR.
@@ -73,6 +75,7 @@ Personal and learning projects around **XR, cloud computing and agentic AI** —
 
 ### Currently exploring
 
+- **Browser-hosted Unity** — WebGL/WASM build constraints, UI Toolkit, MVVM-style state *(hands-on via [memory-palace-vocab](https://github.com/Gescheld/memory-palace-vocab))*
 - Low-latency **teleoperation** of humanoid and industrial robots (XR + ROS2)
 - **Photorealistic 3D capture** (Gaussian splatting) for simulation and visualization
 - **AI agents and multi-agent systems** — planning, tool use and memory, with cloud-deployable demos (Colab / HF Spaces)
